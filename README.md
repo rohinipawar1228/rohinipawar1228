@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rohinipawar1228
-- 👀 I’m interested in Automation Testing & Devops
-- 🌱 I’m currently learning Devops
+- 👀 I’m interested in Automation Testing 
+- 🌱 I’m currently learning Selenium WebDriver
 - 📫 You can reach me on gmail, my maild id is : rohinipawar1228@gmail.com
 
 <!---
